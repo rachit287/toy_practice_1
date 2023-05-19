@@ -1,0 +1,5 @@
+6. Doctor
+7. Engineer
+8. Athlete
+9. Businessman
+10. Salesman
